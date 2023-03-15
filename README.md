@@ -1,2 +1,2 @@
-# zoom-2
-zoom clone by warrior
+# zoom-clone
+zoom clone just the video call section
